@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WebGIS A2</title>
+
+  <!-- OpenLayers CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@latest/ol.css" />
+
+  <!-- Your CSS -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="topbar">
+    <input id="searchInput" type="text" placeholder="Search place (e.g., Tehran, Azadi Tower)..." />
+    <button id="searchBtn">Search</button>
+  </div>
+
+  <div id="map" class="map"></div>
+
+  <div id="weatherBox" class="weather hidden"></div>
+
+  <!-- OpenLayers JS -->
+  <script src="https://cdn.jsdelivr.net/npm/ol@latest/dist/ol.js"></script>
+
+  <!-- Your JS -->
+  <script src="config.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
