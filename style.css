@@ -48,3 +48,47 @@ html, body {
 .hidden {
   display: none;
 }
+
+// کدهای مربوط به زیباسازی و بهبود ظاهر رابط کاربری
+.weather {
+  position: absolute;
+  top: 80px;
+  right: 20px;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 15px 20px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  min-width: 220px;
+  font-family: Arial, sans-serif;
+  z-index: 1000;
+}
+
+.weather h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.weather p {
+  margin: 6px 0;
+  font-size: 14px;
+}
+
+.hidden {
+  display: none;
+}
+// انیمیشن نرم برای نمایش اطلاعات هواشناسی
+.weather {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
