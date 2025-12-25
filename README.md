@@ -179,5 +179,11 @@ https://developer.here.com/
 
 ## 🎥 Demo / Visualization
 
-Click on the image below to watch a short demo video of the WebGIS application.
-[![WebGIS Demo](./assets/screenshot.png)](./assets/demo.mp4)
+برای مشاهده دموی پروژه، روی تصویر زیر کلیک کنید:
+
+[![WebGIS Demo](assets/screenshot.png)](assets/demo.mp4)
+
+🔗 لینک مستقیم ویدیو: [Demo Video](assets/demo.mp4)
+
+> 📌 توجه: به دلیل محدودیت GitHub، ویدیو به‌صورت مستقیم پخش نمی‌شود.  
+> لطفاً با کلیک روی تصویر یا لینک بالا، فایل ویدیو را دانلود و مشاهده کنید.
