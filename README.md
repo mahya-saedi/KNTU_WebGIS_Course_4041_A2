@@ -181,6 +181,10 @@ https://developer.here.com/
 
 برای مشاهده دموی پروژه، روی تصویر زیر کلیک کنید:
 
-[![WebGIS Demo](assets/screenshot.png)](assets/demo.mp4)
+## Demo
 
-🔗 لینک مستقیم ویدیو: [Demo Video](assets/demo.mp4)
+### Screenshot
+![WebGIS Demo](assets/map.jpg)
+
+### Demo Video
+[Download Demo Video](assets/25.12.2025_15.06.50_REC.mp4)
