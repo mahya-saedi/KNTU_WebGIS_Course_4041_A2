@@ -184,6 +184,3 @@ https://developer.here.com/
 [![WebGIS Demo](assets/screenshot.png)](assets/demo.mp4)
 
 🔗 لینک مستقیم ویدیو: [Demo Video](assets/demo.mp4)
-
-> 📌 توجه: به دلیل محدودیت GitHub، ویدیو به‌صورت مستقیم پخش نمی‌شود.  
-> لطفاً با کلیک روی تصویر یا لینک بالا، فایل ویدیو را دانلود و مشاهده کنید.
